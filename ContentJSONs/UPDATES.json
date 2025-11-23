@@ -1,0 +1,193 @@
+{
+  "DATA": { 
+	/* Assassin's Creed Valhalla */  	  	
+    "https://ps4drive-date-19-11-2025.sandrostoreps3.workers.dev/0:/A/Assassins.Creed.Valhalla_CUSA18534/Assassins.Creed.Valhalla_02_CUSA18534_v8.00_OptionalFix_[9.00]_OPOISSO893.pkg": {"title_id": "CUSA18534","region": "USA","name": "Assassin's Creed Valhalla Update V1 Fixed 9.00",
+      "version": "8.00","release": "10-11-2020","size": 18153472,"min_fw": null,"cover_url": null},
+    "https://ps4drive-date-19-11-2025.sandrostoreps3.workers.dev/0:/A/Assassins.Creed.Valhalla_CUSA18534/Assassins.Creed.Valhalla_03_CUSA18534_v8.00_BACKPORT_[5.05-6.72-7.xx-8.xx]_OPOISSO893.pkg": {"title_id": "CUSA18534","region": "USA","name": "Assassin's Creed Valhalla Update V2 Fixed 5.05-6.72-7.xx-8.xx",
+      "version": "8.00","release": "10-11-2020","size": 156106752,"min_fw": null,"cover_url": null},	  
+	/* Bloodstained Curse of the Moon */ 	  
+    "https://ps4drive-date-19-11-2025.sandrostoreps3.workers.dev/0:/B/Bloodstained.Curse.of.the.Moon.CUSA12562/Bloodstained.Curse.of.the.Moon.CUSA12562.Update.v1.01.pkg": {"title_id": "CUSA12562","region": "USA","name": "Bloodstained Curse of the Moon Update V1.01",
+      "version": "1.01","release": "24-05-2018","size": 17432576,"min_fw": null,"cover_url": null},
+	/* Crash Bandicoot N. Sane Trilogy */	 
+    "https://ps4drive-date-19-11-2025.sandrostoreps3.workers.dev/0:/C/Crash.Bandicoot.N.Sane.Trilogy.CUSA07399/Crash.Bandicoot.N.Sane.Trilogy.CUSA07399.02.UP.v1.01.BR.pkg": {"title_id": "CUSA07399","region": "USA","name": "Crash Bandicoot N. Sane Trilogy Update V1.01",
+      "version": "1.07","release": "30-06-2017","size": 4741136384,"min_fw": null,"cover_url": null},
+    "https://ps4drive-date-19-11-2025.sandrostoreps3.workers.dev/0:/C/Crash.Bandicoot.N.Sane.Trilogy.CUSA07399/Crash.Bandicoot.N.Sane.Trilogy.CUSA07399.03.UP.v1.07.pkg": {"title_id": "CUSA07399","region": "USA","name": "Crash Bandicoot N. Sane Trilogy Update V1.07",
+      "version": "1.07","release": "30-06-2017","size": 726073344,"min_fw": null,"cover_url": null},
+	/* Crash Bandicoot 4 Its About Time */	  
+    "https://ps4drive-date-19-11-2025.sandrostoreps3.workers.dev/0:/C/Crash.Bandicoot.4.Its.About.Time.CUSA19035/Crash.Bandicoot.4.Its.About.Time.CUSA19035.02-CB4DIGCONTENT001-A0000-V010000-CB4THEGAME000001-A0105-V0100.pkg": {"title_id": "CUSA19035","region": "USA","name": "Crash Bandicoot 4 Its About Time Update V1.05",
+      "version": "1.05","release": "02-10-2020","size": 22709207040,"min_fw": null,"cover_url": null},	
+	/* Crash Team Racing Nitro-Fueled */
+    "https://ps4drive-date-19-11-2025.sandrostoreps3.workers.dev/0:/C/Crash.Team.Racing.CUSA13795/Crash.Team.Racing.CUSA13795.02-CRASHTEAMRACING1-A0121-V0100.pkg": {"title_id": "CUSA13795","region": "USA","name": "Crash Team Racing Nitro-Fueled Update V1.21",
+      "version": "1.21","release": "20-06-2019","size": 8527020032,"min_fw": null,"cover_url": null},	
+	/* Days Gone */
+    "https://ps4drive-date-19-11-2025.sandrostoreps3.workers.dev/0:/D/DAYS.GONE.CUSA09175/DAYS.GONE.CUSA09175-02-UP.v1.84.pkg": {"title_id": "CUSA09175","region": "USA","name": "Days Gone Update V1.84",
+      "version": "1.84","release": "26-04-2019","size": 1740832768,"min_fw": null,"cover_url": null},	
+	/* Death Stranding */
+    "https://ps4drive-date-19-11-2025.sandrostoreps3.workers.dev/0:/D/DEATH.STRANDING.CUSA11260/DEATH.STRANDING.CUSA11260-02-UP.v1.13.pkg": {"title_id": "CUSA11260","region": "USA","name": "Death Stranding Update V1.13",
+      "version": "1.13","release": "08-11-2019","size": 1250033664,"min_fw": null,"cover_url": null},	
+	/* Devil May Cry 5 */
+    "https://ps4drive-date-19-11-2025.sandrostoreps3.workers.dev/0:/D/Devil.May.Cry.5_CUSA08161/Devil.May.Cry.5_02_CUSA08161_v1.10_[6.72]_OPOISSO893.pkg": {"title_id": "CUSA08161","region": "USA","name": "Devil May Cry 5 Update V1.10",
+      "version": "1.10","release": "08-03-2019","size": 5721686016,"min_fw": null,"cover_url": null},	  
+	/* EA SPORTS FC 25 */	  
+    "https://ps4drive-date-19-11-2025.sandrostoreps3.workers.dev/0:/E/EA%20SPORTS%20FC%202025%20CUSA46399/EA.SPORTS.FC.25_CUSA46399_v1.14_[9.00+]_OPOISSO893.pkg": {"title_id": "CUSA46399","region": "USA","name": "EA SPORTS FC 25 Update V1.14",
+      "version": "1.14","release": "18-09-2024","size": 4999675904,"min_fw": null,"cover_url": null},
+    "https://ps4drive-date-19-11-2025.sandrostoreps3.workers.dev/0:/E/EA%20SPORTS%20FC%202025%20CUSA46399/EA.SPORTS.FC.25_CUSA46399_Brazilian.Portuguese.Audio-[DLPSGAME.COM].pkg": {"title_id": "CUSA46399","region": "USA","name": "EA SPORTS FC 25 Áudio Brazilian Portuguese",
+      "version": "1.14","release": "18-09-2024","size": 1541406720,"min_fw": null,"cover_url": null},
+    "https://ps4drive-date-19-11-2025.sandrostoreps3.workers.dev/0:/E/EA%20SPORTS%20FC%202025%20CUSA46399/EA.SPORTS.FC.25_CUSA46399_00-FULLGAMEUNLOCK00.pkg": {"title_id": "CUSA46399","region": "USA","name": "EA SPORTS FC 25 Fixed 9.00+",
+      "version": "1.14","release": "18-09-2024","size": 1048576,"min_fw": null,"cover_url": null},  
+	/* efootball 2025 Mega Patch BASE PES 21 */
+    "https://ps4drive-date-19-11-2025.sandrostoreps3.workers.dev/0:/E/efootball%20PES%202021%20Mega%20Patch%202025/MEGA%20PATCH%2019.00%2025%20CLEBER%20MACHADO.pkg": {"title_id": "CUSA18676","region": "USA","name": "Efootball 2025 Mega Patch BASE PES 21 Update V19.00",
+      "version": "19.00","release": "19-08-2025","size": 118637723648,"min_fw": null,"cover_url": null},	  
+	/* Ghost of Tsushima */	  
+    "https://ps4drive-date-19-11-2025.sandrostoreps3.workers.dev/0:/G/Ghost.of.Thushima-CUSA11456/Ghost.of.Thushima-CUSA11456-02.pkg": {"title_id": "CUSA11456","region": "USA","name": "Ghost of Tsushima Update V1.28",
+      "version": "1.28","release": "17-07-2020","size": 54525952,"min_fw": null,"cover_url": null},
+    "https://ps4drive-date-19-11-2025.sandrostoreps3.workers.dev/0:/G/Ghost.of.Thushima-CUSA11456/Ghost.of.Thushima-CUSA11456-03.pkg": {"title_id": "CUSA11456","region": "USA","name": "Ghost of Tsushima Fixed 11.00+",
+      "version": "1.28","release": "17-07-2020","size": 1048576,"min_fw": null,"cover_url": null},
+	/* God Of War */	  
+    "https://ps4drive-date-19-11-2025.sandrostoreps3.workers.dev/0:/G/GOD.OF.WAR.CUSA07408/GOD.OF.WAR.02.CUSA07408-UPDATE.v1.35.pkg": {"title_id": "CUSA07408","region": "USA","name": "God Of War 2018 Update V1.35",
+      "version": "1.35","release": "20-04-2018","size": 7972716544,"min_fw": null,"cover_url": null}, 
+	/* God of War Ragnarök */	  
+    "https://ps4drive-date-19-11-2025.sandrostoreps3.workers.dev/0:/G/God.of.War.Ragnar%C3%B6k-CUSA34357/God.of.War.Ragnar%C3%B6k-CUSA34357-02.pkg": {"title_id": "CUSA34357","region": "USA","name": "God of War Ragnarök Update V6.03",
+      "version": "6.03","release": "09-11-2022","size": 23096000512,"min_fw": null,"cover_url": null}, 
+    "https://ps4drive-date-19-11-2025.sandrostoreps3.workers.dev/0:/G/God.of.War.Ragnar%C3%B6k-CUSA34357/God.of.War.Ragnar%C3%B6k-CUSA34357-03.pkg": {"title_id": "CUSA34357","region": "USA","name": "God of War Ragnarök Update V6.05",
+      "version": "6.05","release": "09-11-2022","size": 23783604224,"min_fw": null,"cover_url": null}, 
+	/* Grand Theft Auto V */	  
+    "https://ps4drive-date-19-11-2025.sandrostoreps3.workers.dev/0:/G/Grand.Theft.Auto.V.CUSA00419/Grand.Theft.Auto.V.02.CUSA00419.pkg": {"title_id": "CUSA00419","region": "USA","name": "Grand Theft Auto V Update V1.52",
+      "version": "1.52","release": "17-09-2013","size": 44816793600,"min_fw": null,"cover_url": null}, 
+    "https://ps4drive-date-19-11-2025.sandrostoreps3.workers.dev/0:/G/Grand.Theft.Auto.V.CUSA00419/Grand.Theft.Auto.V.03.CUSA00419.pkg": {"title_id": "CUSA00419","region": "USA","name": "Grand Theft Auto V Update V1.52 Fixed 5.05+",
+      "version": "1.52","release": "17-09-2013","size": 1638400,"min_fw": null,"cover_url": null}, 	  
+	/* Gravity Rush 2 */	  
+    "https://ps4drive-date-19-11-2025.sandrostoreps3.workers.dev/0:/G/Gravity.Rush.2.2018.CUSA03694/Gravity.Rush.2.02.USA.2018.CUSA03694.UP.v1.11.pkg": {"title_id": "CUSA03694","region": "USA","name": "Gravity Rush 2 Update v1.11",
+      "version": "1.11","release": "18-01-2017","size": 1594097664,"min_fw": null,"cover_url": null},	  
+	/* Hogwarts Legacy */	  
+    "https://ps4drive-date-19-11-2025.sandrostoreps3.workers.dev/0:/H/Hogwarts.Legacy.CUSA12824/Hogwarts.Legacy.CUSA12824.02.UP.v1.04.pkg": {"title_id": "CUSA12824","region": "USA","name": "Hogwarts Legacy Update V1.04",
+      "version": "1.04","release": "10-02-2023","size": 31424708608,"min_fw": null,"cover_url": null}, 
+    "https://ps4drive-date-19-11-2025.sandrostoreps3.workers.dev/0:/H/Hogwarts.Legacy.CUSA12824/Hogwarts.Legacy.CUSA12824.03.UP.v1.05.pkg": {"title_id": "CUSA12824","region": "USA","name": "Hogwarts Legacy Update V1.05",
+      "version": "1.05","release": "10-02-2023","size": 31496273920,"min_fw": null,"cover_url": null}, 
+	/* JoJo's Bizarre Adventure All-Star Battle R */	  
+    "https://ps4drive-date-19-11-2025.sandrostoreps3.workers.dev/0:/J/JoJos.Bizarre.Adventure.All-Star.Battle.R.01.CUSA28972/JoJos.Bizarre.Adventure.All-Star.Battle.R.02.UP.v2.33.CUSA28972.pkg": {"title_id": "CUSA28972","region": "USA","name": "JoJo's Bizarre Adventure All-Star Battle R Update V2.33",
+      "version": "2.33","release": "29-04-2014","size": 3002007552,"min_fw": null,"cover_url": null}, 
+	/* LIMBO */	  
+    "https://ps4drive-date-19-11-2025.sandrostoreps3.workers.dev/0:/L/LIMBO-CUSA01664/LIMBO-02-UP.v1.01.CUSA01664.pkg": {"title_id": "CUSA01664","region": "USA","name": "Limbo Update V1.01",
+      "version": "1.01","release": "21-07-2010","size": 16187392,"min_fw": null,"cover_url": null},	  
+	/* Little Nightmares */	  
+    "https://ps4drive-date-19-11-2025.sandrostoreps3.workers.dev/0:/L/Little.Nightmares.CUSA05929/Little.Nightmares.02.CUSA05929.UP.v1.07.pkg": {"title_id": "CUSA05929","region": "USA","name": "Little Nightmares Update V1.07",
+      "version": "1.07","release": "28-04-2017","size": 91488256,"min_fw": null,"cover_url": null}, 
+	/* Little Nightmares II */	  
+    "https://ps4drive-date-19-11-2025.sandrostoreps3.workers.dev/0:/L/Little.Nightmares.II.CUSA13055/Little.Nightmares.II.02.UP.v1.05.CUSA13055.pkg": {"title_id": "CUSA13055","region": "USA","name": "Little Nightmares II Update V1.05",
+      "version": "1.05","release": "11-02-2021","size": 3793747968,"min_fw": null,"cover_url": null}, 
+	/* Lovers in a Dangerous Spacetime */	  
+    "https://ps4drive-date-19-11-2025.sandrostoreps3.workers.dev/0:/L/Lovers.in.a.Dangerous.Spacetime.CUSA04075/Lovers.in.a.Dangerous.Spacetime.CUSA04075.Update.v1.01.pkg": {"title_id": "CUSA04075","region": "USA","name": "Lovers in a Dangerous Spacetime Update V1.01",
+      "version": "1.01","release": "09-09-2015","size": 4521984,"min_fw": null,"cover_url": null}, 
+	/* Mafia III */	  
+    "https://ps4drive-date-19-11-2025.sandrostoreps3.workers.dev/0:/M/Mafia%20III%20CUSA03617/Mafia%20III%20UP%20v1.12%20CUSA03617%20PS4.pkg": {"title_id": "CUSA03617","region": "USA","name": "Mafia III Update V1.12",
+      "version": "1.12","release": "07-10-2016","size": 15969157120,"min_fw": null,"cover_url": null}, 
+	/* Marvel's Spider-Man */	  
+    "https://ps4drive-date-19-11-2025.sandrostoreps3.workers.dev/0:/M/Marvels.Spider-Man.CUSA02299/Marvel's%20Spider-Man%2002%20UP%20v1.19%20CUSA02299%20PS4.pkg": {"title_id": "CUSA02299","region": "USA","name": "Marvel's Spider-Man Update V1.19",
+      "version": "1.19","release": "07-09-2018","size": 16866017280,"min_fw": null,"cover_url": null},
+	/* Marvel's Spider-Man Miles Morales */	  
+    "https://ps4drive-date-19-11-2025.sandrostoreps3.workers.dev/0:/M/Marvels.Spider-Man.Miles.Morales.CUSA17722/Marvels.Spider-Man.Miles.Morales.CUSA17722.02.UP.v1.09.pkg": {"title_id": "CUSA17722","region": "USA","name": "Marvel's Spider-Man Miles Morales Update V1.09",
+      "version": "1.09","release": "12-11-2020","size": 11977752576,"min_fw": null,"cover_url": null},	  
+    "https://ps4drive-date-19-11-2025.sandrostoreps3.workers.dev/0:/M/Marvels.Spider-Man.Miles.Morales.CUSA17722/Marvels.Spider-Man.Miles.Morales.CUSA17722.03.UP.v1.14.CUSA17722.pkg": {"title_id": "CUSA17722","region": "USA","name": "Marvel's Spider-Man Miles Morales Update V1.14",
+      "version": "1.14","release": "12-11-2020","size": 12012093440,"min_fw": null,"cover_url": null},	  
+	/* Metaphor ReFantazio */	  
+    "https://ps4drive-date-19-11-2025.sandrostoreps3.workers.dev/0:/M/Metaphor.ReFantazio.CUSA47038/Metaphor.ReFantazio.02.CUSA47038.UP.v1.03.pkg": {"title_id": "CUSA47038","region": "USA","name": "Metaphor ReFantazio Update V1.03",
+      "version": "1.03","release": "11-10-2024","size": 215875584,"min_fw": null,"cover_url": null},	  
+    "https://ps4drive-date-19-11-2025.sandrostoreps3.workers.dev/0:/M/Metaphor.ReFantazio.CUSA47038/Metaphor.ReFantazio.03.CUSA47038.UP.v1.09.pkg": {"title_id": "CUSA47038","region": "USA","name": "Metaphor ReFantazio Update V1.09",
+      "version": "1.09","release": "11-10-2024","size": 219021312,"min_fw": null,"cover_url": null},
+	/* Mortal Kombat 11 */	  
+    "https://ps4drive-date-19-11-2025.sandrostoreps3.workers.dev/0:/M/Mortal.Kombat.11.CUSA11518/Mortal.Kombat.11.CUSA11518-00MORTALKOMBAT11-A0130-V0100.pkg": {"title_id": "CUSA11518","region": "USA","name": "Mortal Kombat 11 Update V1.30",
+      "version": "1.30","release": "23-04-2019","size": 26879918080,"min_fw": null,"cover_url": null},	    
+	/* Need for Speed Heat */	  
+    "https://ps4drive-date-19-11-2025.sandrostoreps3.workers.dev/0:/N/Need.for.Speed.Heat.CUSA15081/Need.for.Speed.Heat.CUSA15081.02.2020.CUSA15081.pkg": {"title_id": "CUSA15081","region": "USA","name": "Need for Speed Heat Update V2020",
+      "version": "1.00","release": "08-11-2019","size": 8102674432,"min_fw": null,"cover_url": null},	
+	/* No Mans Sky */	  
+    "https://ps4drive-date-19-11-2025.sandrostoreps3.workers.dev/0:/N/No.Mans.Sky.CUSA04841/No.Mans.Sky.CUSA04841.02.UP.v5.11.pkg": {"title_id": "CUSA04841","region": "USA","name": "No Mans Sky Update V5.11",
+      "version": "5.11","release": "09-08-2016","size": 76152832,"min_fw": null,"cover_url": null},
+	/* Power Rangers - Battle for The Grid */	  
+    "https://ps4drive-date-19-11-2025.sandrostoreps3.workers.dev/0:/P/Power.Rangers.-.Battle.for.The.Grid.CUSA15284/Power%20Rangers%20-%20Battle%20for%20The%20Grid%20UP%20v1.24%20CUSA15284%20PS4.pkg": {"title_id": "CUSA15284","region": "USA","name": "Power Rangers Battle for The Grid Update V1.24",
+      "version": "1.24","release": "13-10-2020","size": 1584529408,"min_fw": null,"cover_url": null},
+	/* Red Dead Redemption II */	  
+    "https://ps4drive-date-19-11-2025.sandrostoreps3.workers.dev/0:/R/Red.Dead.Redemption.2.CUSA03041./Red.Dead.Redemption.2.02-CUSA03041.pkg": {"title_id": "CUSA03041","region": "USA","name": "Red Dead Redemption II Update V1.32",
+      "version": "1.32","release": "26-10-2018","size": 20623982592,"min_fw": null,"cover_url": null},
+	/* Resident Evil 2 */	  
+    "https://ps4drive-date-19-11-2025.sandrostoreps3.workers.dev/0:/R/RESIDENT.EVIL.2.CUSA09193/RESIDENT%20EVIL%202%20-02-%20CUSA09193%20ATT%20v1.06.pkg": {"title_id": "CUSA09193","region": "USA","name": "Resident Evil 2 Remake Update V1.06",
+      "version": "1.06","release": "25-01-2019","size": 1426522112,"min_fw": null,"cover_url": null},	  
+    "https://ps4drive-date-19-11-2025.sandrostoreps3.workers.dev/0:/R/RESIDENT.EVIL.2.CUSA09193/RESIDENT%20EVIL%202%20-03-%20CUSA09193%20ATT%20v1.07.pkg": {"title_id": "CUSA09193","region": "USA","name": "Resident Evil 2 Remake Update V1.07",
+      "version": "1.07","release": "25-01-2019","size": 1515913216,"min_fw": null,"cover_url": null},
+	/* Resident Evil 3 */	  
+    "https://ps4drive-date-19-11-2025.sandrostoreps3.workers.dev/0:/R/RESIDENT.EVIL.3.CUSA14168/Resident%20Evil%203%20UP%20v1.05%20CUSA14168%20PS4.pkg": {"title_id": "CUSA14168","region": "USA","name": "Resident Evil 3 Remake Update V1.05",
+      "version": "1.05","release": "03-04-2020","size": 270794752,"min_fw": null,"cover_url": null},	  
+    "https://ps4drive-date-19-11-2025.sandrostoreps3.workers.dev/0:/R/RESIDENT.EVIL.3.CUSA14168/Resident%20Evil%203%20UP%20v1.06%20CUSA14168%20PS4.pkg.pkg": {"title_id": "CUSA14168","region": "USA","name": "Resident Evil 3 Remake Update V1.06",
+      "version": "1.06","release": "03-04-2020","size": 309067776,"min_fw": null,"cover_url": null},
+    "https://ps4drive-date-19-11-2025.sandrostoreps3.workers.dev/0:/R/RESIDENT.EVIL.3.CUSA14168/Resident%20Evil%203%20UP%20v1.07%20CUSA14168%20PS4.pkg": {"title_id": "CUSA14168","region": "USA","name": "Resident Evil 3 Remake Update V1.07",
+      "version": "1.07","release": "03-04-2020","size": 336003072,"min_fw": null,"cover_url": null},
+	/* Resident Evil 4 Remake */	  
+    "https://ps4drive-date-19-11-2025.sandrostoreps3.workers.dev/0:/R/RESIDENT.EVIL.4.CUSA33388/Resident.Evil.4.CUSA33388_02_v1.11_[9.00-11.00]_OPOISSO893.pkg": {"title_id": "CUSA14168","region": "USA","name": "Resident Evil 4 Remake Update V1.11",
+      "version": "1.11","release": "24-03-2023","size": 6497370112,"min_fw": null,"cover_url": null},		  
+	/* Resident Evil 7 */	  
+    "https://ps4drive-date-19-11-2025.sandrostoreps3.workers.dev/0:/R/RESIDENT%20EVIL%207%20CUSA03842/RESIDENT%20EVIL%207%20UP%20v1.06%20CUSA03842%20biohazard%20PS4.pkg": {"title_id": "CUSA03842","region": "USA","name": "Resident Evil 7 Update V1.06",
+      "version": "1.06","release": "24-01-2017","size": 3594715136,"min_fw": null,"cover_url": null},	  
+    "https://ps4drive-date-19-11-2025.sandrostoreps3.workers.dev/0:/R/RESIDENT%20EVIL%207%20CUSA03842/RESIDENT%20EVIL%207%20UP%20v1.11%20CUSA03842%20biohazard%20PS4.pkg": {"title_id": "CUSA03842","region": "USA","name": "Resident Evil 7 Update V1.11",
+      "version": "1.11","release": "24-01-2017","size": 3702456320,"min_fw": null,"cover_url": null},  
+	/* Rise of the Tomb Raider 20 Year Celebration */	  
+    "https://ps4drive-date-19-11-2025.sandrostoreps3.workers.dev/0:/R/Rise.of.the.Tomb.Raider.20.Year.Celebration.CUSA05794/Rise_of_the_Tomb_Raider_20_Year_Celebration_02_Update_v1_06.pkg": {"title_id": "CUSA05794","region": "USA","name": "Rise of the Tomb Raider 20 Year Celebration Update V1.06",
+      "version": "1.06","release": "10-11-2015","size": 1230897152,"min_fw": null,"cover_url": null},
+	/* Sekiro */	  
+    "https://ps4drive-date-19-11-2025.sandrostoreps3.workers.dev/0:/S/Sekiro%20CUSA12047/Sekiro%E2%84%A2%20Shadows%20Die%20Twice%20UP%20v1.06%20CUSA12047%20PS4.pkg": {"title_id": "CUSA12047","region": "USA","name": "Sekiro Update V1.06",
+      "version": "1.06","release": "22-03-2019","size": 4427677696,"min_fw": null,"cover_url": null},
+	/* Shadow of the Tomb Raider */	  
+    "https://ps4drive-date-19-11-2025.sandrostoreps3.workers.dev/0:/S/Shadow%20of%20the%20Tomb%20Raider-CUSA10812/Shadow%20of%20the%20Tomb%20Raider%2002%20UP%20v2.01%20CUSA10872%20PS4.pkg": {"title_id": "CUSA10872","region": "USA","name": "Shadow of the Tomb Raider Update V2.01",
+      "version": "2.01","release": "23-08-2013","size": 9764864,"min_fw": null,"cover_url": null},	
+	/*  Shadow of The Colossus */	  
+    "https://ps4drive-date-19-11-2025.sandrostoreps3.workers.dev/0:/S/SHADOW.OF.THE.COLOSSUS.CUSA08809/SHADOW%20OF%20THE%20COLOSSUS%E2%84%A2%20UP%20v1.01%20CUSA08809%20PS4.pkg": {"title_id": "CUSA08809","region": "USA","name": "Shadow of The Colossus Update V1.01",
+      "version": "1.01","release": "12-09-2018","size": 16842752,"min_fw": null,"cover_url": null},	
+	/*  Shin Megami Tensei Ⅴ Vengeance */	  
+    "https://ps4drive-date-19-11-2025.sandrostoreps3.workers.dev/0:/S/Shin%20Megami%20Tensei%20%E2%85%A4%20Vengeance-CUSA42502/Shin%20Megami%20Tensei%20%E2%85%A4%20Vengeance%2002%20UP%20v1.01%20CUSA42502%20PS4.pkg": {"title_id": "CUSA42502","region": "USA","name": "Shin Megami Tensei Ⅴ Vengeance Update V1.01",
+      "version": "1.01","release": "13-06-2024","size": 42074112,"min_fw": null,"cover_url": null},	
+	/*  Star Ocean The Divine Force */	  
+    "https://ps4drive-date-19-11-2025.sandrostoreps3.workers.dev/0:/S/STAR%20OCEAN%20THE%20DIVINE%20FORCE%20CUSA31855/STAR%20OCEAN%20THE%20DIVINE%20FORCE%2002%20UP%20v1.03%20CUSA31855%20PS4.pkg": {"title_id": "CUSA31855","region": "USA","name": "Star Ocean The Divine Force Update V1.03",
+      "version": "1.03","release": "24-11-2022","size": 9495576576,"min_fw": null,"cover_url": null},	
+	/*  Star Wars Jedi Fallen Order */	  
+    "https://ps4drive-date-19-11-2025.sandrostoreps3.workers.dev/0:/S/STAR.WARS.Jedi.Fallen.Orden/STAR.WARS.Jedi.Fallen.Orden-03.pkg": {"title_id": "CUSA12529","region": "USA","name": "Star Wars Jedi Fallen Order Update V1.12",
+      "version": "1.12","release": "10-11-2019","size": 4743299072,"min_fw": null,"cover_url": null},	
+	/*  Star Wars Jedi Survivor */	  
+    "https://ps4drive-date-19-11-2025.sandrostoreps3.workers.dev/0:/S/STAR.WARS.Jedi.Survivor_CUSA33778/STAR.WARS.Jedi.Survivor_CUSA33778-02.pkg": {"title_id": "CUSA33778","region": "USA","name": "Star Wars Jedi Survivor Update V1.03",
+      "version": "1.03","release": "28-04-2023","size": 122945536,"min_fw": null,"cover_url": null},	
+    "https://ps4drive-date-19-11-2025.sandrostoreps3.workers.dev/0:/S/STAR.WARS.Jedi.Survivor_CUSA33778/STAR.WARS.Jedi.Survivor_CUSA33778-03.pkg": {"title_id": "CUSA33778","region": "USA","name": "Star Wars Jedi Survivor Update V1.03 Fixed 11.00+",
+      "version": "1.03","release": "28-04-2023","size": 9240576,"min_fw": null,"cover_url": null},
+    "https://ps4drive-date-19-11-2025.sandrostoreps3.workers.dev/0:/S/STAR.WARS.Jedi.Survivor_CUSA33778/STAR.WARS.Jedi.Survivor_CUSA33778_v1.03_BACKPORT_[6.72-7.xx-9.00]_OPOISSO893.pkg": {"title_id": "CUSA33778","region": "USA","name": "Star Wars Jedi Survivor Update V1.03 Fixed 9.00+",
+      "version": "1.03","release": "28-04-2023","size": 122945536,"min_fw": null,"cover_url": null},
+	/* Stranger of Paradise Final Fantasy Origin */	  
+    "https://ps4drive-date-19-11-2025.sandrostoreps3.workers.dev/0:/S/STRANGER%20OF%20PARADISE%20FINAL%20FANTASY%20ORIGIN%20CUSA29578/STRANGER%20OF%20PARADISE%20FINAL%20FANTASY%20ORIGIN%2002%20UP%20v1.31%20CUSA29578%20PS4.pkg": {"title_id": "CUSA29578","region": "USA","name": "Stranger of Paradise Final Fantasy Origin Update V1.31",
+      "version": "1.31","release": "15-03-2022","size": 7961313280,"min_fw": null,"cover_url": null},	
+	/* Street Fighter 6 */	  
+    "https://ps4drive-date-19-11-2025.sandrostoreps3.workers.dev/0:/S/Street.Fighter.6-CUSA31498/Street.Fighter.6-CUSA31498-Fighting.Ground-CyB1K.pkg": {"title_id": "CUSA31498","region": "USA","name": "Street Fighter 6 V1.00",
+      "version": "1.00","release": "02-07-2023","size": 3096576000,"min_fw": null,"cover_url": null},	  
+	/* Tekken 7 */	  
+    "https://ps4drive-date-19-11-2025.sandrostoreps3.workers.dev/0:/T/Tekken%207%20CUSA05972/Tekken%207%20CUP%20v5.10%20CUSA05972%20PS4.pkg": {"title_id": "CUSA05972","region": "USA","name": "Tekken 7 Update V5.10",
+      "version": "5.10","release": "18-03-2015","size": 13273071616,"min_fw": null,"cover_url": null},
+	/* The DioField Chronicle */	  
+    "https://ps4drive-date-19-11-2025.sandrostoreps3.workers.dev/0:/T/The.DioField.Chronicle.CUSA31396/The%20DioField%20Chronicle%20UP%20v1.02%20CUSA31396%20PS4.pkg": {"title_id": "CUSA31396","region": "USA","name": "The DioField Chronicle Update V1.02",
+      "version": "1.02","release": "20-09-2022","size": 22783197184,"min_fw": null,"cover_url": null},
+	/* The Last of Us Parte I Remastered */	  
+    "https://ps4drive-date-19-11-2025.sandrostoreps3.workers.dev/0:/T/The.Last.of.Us.Parte.I.CUSA00552/The.Last.of.Us.Parte.I.-.02-CUSA00552.pkg": {"title_id": "CUSA31396","region": "USA","name": "The Last of Us Parte I Remastered Update V1.11",
+      "version": "1.11","release": "14-06-2013","size": 369164288,"min_fw": null,"cover_url": null},
+	/* The Last of Us Parte II */	  
+    "https://ps4drive-date-19-11-2025.sandrostoreps3.workers.dev/0:/T/The.Last.of.Us.Parte.II.-.CUSA07820/The%20Last%20of%20Us%E2%84%A2%20Parte%20II%20-%2002%20UP%20v1.09%20CUSA07820%20PS4.pkg": {"title_id": "CUSA07820","region": "USA","name": "The Last of Us Parte II Update V1.09",
+      "version": "1.09","release": "19-06-2020","size": 4770824192,"min_fw": null,"cover_url": null},
+	/* Tropico 6 */	  
+    "https://ps4drive-date-19-11-2025.sandrostoreps3.workers.dev/0:/T/TROPICO6/TROPICO6-CUSA08154_00-BR-AT-A0102-V0100.pkg": {"title_id": "CUSA08154","region": "USA","name": "Tropico 6 Update V1.02",
+      "version": "1.02","release": "06-03-2019","size": 3061317632,"min_fw": null,"cover_url": null},
+	/* Uncharted The Nathan Drake Collection */	  
+    "https://ps4drive-date-19-11-2025.sandrostoreps3.workers.dev/0:/U/Uncharted%20The%20Nathan%20Drake%20Collection%20CUSA02320/Uncharted%20The%20Nathan%20Drake%20Collection%E2%84%A2%20UP%20v1.02%20CUSA02320%20PS4.pkg": {"title_id": "CUSA02320","region": "USA","name": "Uncharted The Nathan Drake Collection Update V1.02",
+      "version": "1.02","release": "07-10-2015","size": 1033568256,"min_fw": null,"cover_url": null},
+	/* Until Dawn */	  
+    "https://ps4drive-date-19-11-2025.sandrostoreps3.workers.dev/0:/U/UNTIL%20DAWN%20CUSA00359/UNTIL%20DAWN%20CUSA00359%20UP%20v1.04.pkg": {"title_id": "CUSA00359","region": "USA","name": "Until Dawn Update V1.04",
+      "version": "1.04","release": "25-08-2015","size": 7995850752,"min_fw": null,"cover_url": null},
+	/* Watch Dogs */	  
+    "https://ps4drive-date-19-11-2025.sandrostoreps3.workers.dev/0:/W/WATCH_DOGS%E2%84%A2%20CUSA00021/WATCH_DOGS%E2%84%A2%20UP%20v1.05%20CUSA00021%20PS4.pkg": {"title_id": "CUSA00021","region": "USA","name": "Watch Dogs Update V1.05",
+      "version": "1.05","release": "25-08-2015","size": 116981760,"min_fw": null,"cover_url": null}	  
+	  
+  }
+}

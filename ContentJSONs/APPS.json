@@ -1,0 +1,34 @@
+{
+  "DATA": {
+	  	/* Youtube */   
+    "https://pkg-zone.com/download/ps4/CUSA01116/": { "title_id": "CUSA01116","region": "ALL","name": "Youtube",
+	"version": "2.32","release": "12-25-2024","size": 151650304,"min_fw": "4.50+ / PS4","cover_url": "https://pkg-zone.com/images/CUSA01116/cover.png"},
+		/* Netflix */   
+    "https://pkg-zone.com/download/ps4/CUSA00127/1.53":   { "title_id": "CUSA00127","region": "ALL","name": "Netflix",
+	"version": "1.53","release": "12-25-2024","size":  64028672,"min_fw": "4.50+ / PS4","cover_url": "https://pkg-zone.com/images/CUSA00127/cover.png"},
+		/* YouTube TV */   
+    "https://pkg-zone.com/download/ps4/CUSA18680/": { "title_id": "CUSA18680","region": "ALL","name": "YouTube TV",
+	"version": "1.01","release": "12-25-2024","size":  71958528,"min_fw": "4.50+ / PS4","cover_url": "https://pkg-zone.com/images/CUSA18680/cover.png"},
+		/* Paramount+ */   
+    "https://pkg-zone.com/download/ps4/CUSA05365/": { "title_id": "CUSA05365","region": "ALL","name": "Paramount+",
+	"version": "2.00","release": "12-25-2024","size":  80609280,"min_fw": "4.50+ / PS4","cover_url": "https://pkg-zone.com/images/CUSA05365/cover.png"},
+		/* Hulu */   
+    "https://pkg-zone.com/download/ps4/CUSA00131/": { "title_id": "CUSA00131","region": "ALL","name": "Hulu",
+	"version": "2.33","release": "12-25-2024","size":  63045632,"min_fw": "4.50+ / PS4","cover_url": "https://pkg-zone.com/images/CUSA00131/cover.png"},
+		/* ESPN */   
+    "https://pkg-zone.com/download/ps4/CUSA05214/": { "title_id": "CUSA05214","region": "ALL","name": "ESPN",
+	"version": "4.00","release": "12-25-2024","size": 161087488,"min_fw": "4.50+ / PS4","cover_url": "https://pkg-zone.com/images/CUSA05214/cover.png"},
+		/* Crunchyroll */   
+    "https://pkg-zone.com/download/ps4/CUSA02644/": { "title_id": "CUSA02644","region": "ALL","name": "Crunchyroll",
+	"version": "1.34","release": "12-25-2024","size":  55640064,"min_fw": "4.50+ / PS4","cover_url": "https://pkg-zone.com/images/CUSA02644/cover.png"},
+		/* Pluto TV */   
+    "https://pkg-zone.com/download/ps4/CUSA04688/": { "title_id": "CUSA04688","region": "ALL","name": "Pluto TV",
+	"version": "3.43","release": "12-25-2024","size":  53084160,"min_fw": "4.50+ / PS4","cover_url": "https://pkg-zone.com/images/CUSA04688/cover.png"},
+		/* Apple TV */   
+    "https://pkg-zone.com/download/ps4/CUSA24386/": { "title_id": "CUSA24386","region": "ALL","name": "Apple TV",
+	"version": "1.11","release": "08-01-2025","size": 132448256,"min_fw": "4.50+ / PS4","cover_url": "https://pkg-zone.com/images/CUSA24386/cover.png"},	
+		/* Plex */   
+    "https://pkg-zone.com/download/ps4/CUSA01850/": { "title_id": "CUSA01850","region": "ALL","name": "Plex",
+	"version": "2.03","release": "12-25-2024","size":  68681728,"min_fw": "4.50+ / PS4","cover_url": "https://pkg-zone.com/images/CUSA01850/cover.png"}
+  }
+}

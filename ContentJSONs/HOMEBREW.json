@@ -1,0 +1,40 @@
+{
+  "DATA": {
+	  	  	/* Itemzflow Game Manager */   
+    "https://pkg-zone.com/download/ps4/ITEM00001/": { "title_id": "ITEM00001","region": "ALL","name": "Itemzflow Game Manager",
+	"version": "1.07","release": "05-09-2025","size": 26738688,"min_fw": "4.50+ / PS4","cover_url": "https://pkg-zone.com/images/ITEM00001/cover.png"},
+		  	/* Avatar Changer */   
+    "https://pkg-zone.com/download/ps4/LAPY20015/": { "title_id": "LAPY20015","region": "ALL","name": "Avatar Changer",
+	"version": "1.02","release": "03-03-2025","size": 54788096,"min_fw": "4.50+ / PS4","cover_url": "https://pkg-zone.com/images/LAPY20015/cover.png"},
+		  	/* PS4 Toolset */   
+    "https://pkg-zone.com/download/ps4/SAAT29385/": { "title_id": "SAAT29385","region": "ALL","name": "PS4 Toolset",
+	"version": "2.20","release": "12-25-2024","size":158793728,"min_fw": "4.50+ / PS4","cover_url": "https://pkg-zone.com/images/SAAT29385/cover.png"},
+		  	/* Apollo Save Tool */   
+    "https://pkg-zone.com/download/ps4/APOL00004/": { "title_id": "APOL00004","region": "ALL","name": "Apollo Save Tool",
+	"version": "1.02","release": "12-25-2024","size": 16842752,"min_fw": "4.50+ / PS4","cover_url": "https://pkg-zone.com/images/APOL00004/cover.png"},
+		  	/* PS4 FTP Client */   
+    "https://pkg-zone.com/download/ps4/FTPC00001/": { "title_id": "FTPC00001","region": "ALL","name": "PS4 FTP Client",
+	"version": "1.02","release": "12-25-2024","size": 30801920,"min_fw": "4.50+ / PS4","cover_url": "https://pkg-zone.com/images/FTPC00001/cover.png"},
+		  	/* Remote PKG installer */   
+    "https://pkg-zone.com/download/ps4/FLTZ00003/": { "title_id": "FLTZ00003","region": "ALL","name": "Remote PKG installer",
+	"version": "1.02","release": "12-25-2024","size":  4259840,"min_fw": "4.50+ / PS4","cover_url": "https://pkg-zone.com/images/FLTZ00003/cover.png"},
+		  	/* PS4 Temperature */   
+    "https://pkg-zone.com/download/ps4/LAPY20006/": { "title_id": "LAPY20006","region": "ALL","name": "PS4 Temperature",
+	"version": "1.07","release": "12-25-2024","size": 50331648,"min_fw": "4.50+ / PS4","cover_url": "https://pkg-zone.com/images/LAPY20006/cover.png"},
+		  	/* Icon Mask */   
+    "https://pkg-zone.com/download/ps4/LAPY20007/": { "title_id": "LAPY20007","region": "ALL","name": "Icon Mask",
+	"version": "1.16","release": "12-25-2024","size": 74055680,"min_fw": "4.50+ / PS4","cover_url": "https://pkg-zone.com/images/LAPY20007/cover.png"},
+		  	/* PS4 Media Player */   
+    "https://pkg-zone.com/download/ps4/CUSA02012/": { "title_id": "CUSA02012","region": "ALL","name": "PS4 Media Player",
+	"version": "4.01","release": "12-25-2024","size": 16842752,"min_fw": "4.50+ / PS4","cover_url": "https://pkg-zone.com/images/CUSA02012/cover.png"},
+		  	/* Payload Guest */   
+    "https://pkg-zone.com/download/ps4/AZIF00003/": { "title_id": "AZIF00003","region": "ALL","name": "Payload Guest",
+	"version": "0.98","release": "12-25-2024","size": 34865152,"min_fw": "4.50+ / PS4","cover_url": "https://pkg-zone.com/images/AZIF00003/cover.png"},
+		  	/* PS4-Xplorer 2.0 */   
+    "https://pkg-zone.com/download/ps4/LAPY20009/": { "title_id": "LAPY20009","region": "ALL","name": "PS4-Xplorer 2.0",
+	"version": "2.05","release": "12-25-2024","size": 63832064,"min_fw": "4.50+ / PS4","cover_url": "https://pkg-zone.com/images/LAPY20009/cover.png"},
+		  	/* PS4 Cheats Manager */   
+    "https://pkg-zone.com/download/ps4/CHTM00777/": { "title_id": "CHTM00777","region": "ALL","name": "PS4 Cheats Manager",
+	"version": "1.22","release": "12-25-2024","size": 19202048,"min_fw": "4.50+ / PS4","cover_url": "https://pkg-zone.com/images/CHTM00777/cover.png"}	
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "DATA": {
+	  	/* PS4-GBEmu */
+    "https://pkg-zone.com/download/ps4/NPXX51385/latest": {"title_id": "NPXX51385","region": null,"name": "PS4-GBEmu",
+	"version": "1.01","release": "03-14-2010","size":  66519040,"min_fw": "5.05","cover_url": "https://pkg-zone.com/images/NPXX51385/cover.png"},
+		/* Emu Mégadrive/Genesis */
+    "https://pkg-zone.com/download/ps4/CUSB00002/latest": {"title_id": "CUSB00002","region": null,"name": "Emu Mégadrive/Genesis",
+	"version": "1.00","release": "03-14-2010","size":  26935296,"min_fw": "5.05","cover_url": "https://pkg-zone.com/images/CUSB00002/cover.png"},	
+		/* Emu Game Boy Advance */
+    "https://pkg-zone.com/download/ps4/CUSB00005/latest": {"title_id": "CUSB00005","region": null,"name": "Emu Game Boy Advance",
+	"version": "1.00","release": "03-14-2010","size":  23855104,"min_fw": "5.05","cover_url": "https://pkg-zone.com/images/CUSB00005/cover.png"},	
+		/* Emu Master System */
+    "https://pkg-zone.com/download/ps4/CUSC00000/latest": {"title_id": "CUSC00000","region": null,"name": "Emu Master System",
+	"version": "1.00","release": "03-14-2010","size": 124583936,"min_fw": "5.05","cover_url": "https://pkg-zone.com/images/CUSC00000/cover.png"},
+		/* pNES - Portable Nestopia */
+    "https://pkg-zone.com/download/ps4/PNES00001/latest": {"title_id": "PNES00001","region": null,"name": "pNES - Portable Nestopia",
+	"version": "6.07","release": "03-14-2010","size":  41287680,"min_fw": "5.05","cover_url": "https://pkg-zone.com/images/PNES00001/cover.png"},
+	    /* pGEN - Portable Genesis Plus GX */	
+    "https://pkg-zone.com/download/ps4/PGEN00001/latest": {"title_id": "PGEN00001","region": null,"name": "pGEN - Portable Genesis Plus GX",
+	"version": "6.07","release": "03-14-2010","size":  48365568,"min_fw": "5.05","cover_url": "https://pkg-zone.com/images/PGEN00001/cover.png"}	
+  }
+}
